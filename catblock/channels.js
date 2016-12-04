@@ -132,13 +132,13 @@ class Channels {
         if (!entries || (entries.length > 0 && !entries[0].name)) {
             // Default set of channels
             if (CATS.isEnabled()) {
-                this.add({ name: "TheCatsOfProjectCATS", param: undefined, enabled: true });
+                this.add({ name: "TheCatsOfProjectCATS", param: undefined, disabled: false });
                 this.add({ name: "TheCatsOfCatBlockUsersChannel", param: undefined,
-                      enabled: false });
+                      disabled: false });
                 this.add({ name: "AprilFoolsCatsChannel", param: undefined, enabled: false });
             } else {
                 this.add({ name: "TheCatsOfCatBlockUsersChannel", param: undefined,
-                      enabled: true });
+                      disabled: true });
                 this.add({ name: "AprilFoolsCatsChannel", param: undefined, enabled: true });
             }
         } else {
@@ -205,7 +205,7 @@ class AprilFoolsCatsChannel extends Channel {
             return new Listing({
                 width: w, height: h, url: folder + f,
                 attribution_url: "http://chromeadblock.com/catblock/credits.html",
-                title: "This is a cat!"
+                title: "This is a Meme!"
             });
         }
         // the listings never change

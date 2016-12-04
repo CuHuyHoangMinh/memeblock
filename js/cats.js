@@ -16,7 +16,7 @@ var CATS = {
         if (self.isEnabled() === undefined && sessionstorage_get("installed")) {
             sessionstorage_set("installed"); // present with a new user
 
-            var installedURL = "https://catblock.tk/installed.html";
+            var installedURL = "https://www.theguardian.com/media/2011/oct/31/news-website-design-ads";
             chrome.tabs.create({ url: installedURL }, function(data) {
                 var tabId = data.id;
                 var fileToInject = "js/cats-cs.js";

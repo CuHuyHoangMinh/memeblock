@@ -83,7 +83,7 @@
   },
   "catblock_pause_adblock":{
     "description":"Menu entry to pause CatBlock",
-    "message":"Pause CatBlock"
+    "message":"Pause MemeBlock"
   },
   "catblock_safari50_updatenotice":{
     "description":"A message shown to Safari 5.0 users urging them to upgrade",
@@ -173,7 +173,7 @@
   },
   "catblock_adblock_click_for_details":{
     "description":"Tooltip on the AdBlock button, to help users understand that they can click the button, and that they can control the number badge that appears on the button.",
-    "message":"CatBlock - click for details"
+    "message":"MemeBlock - click for details"
   },
   "catblock_adblock_wont_run_on_pages_matching":{
     "description":"Message displayed when the whitelister dialog will whitelist part of an entire website, for example '*.google.com\/reader\/*'.  The URL will appear on the next line.",

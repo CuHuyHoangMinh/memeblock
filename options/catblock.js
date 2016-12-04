@@ -2,9 +2,7 @@
 
 function mayDelete(channelData) {
     switch (channelData.name) {
-        case "AprilFoolsCatsChannel":
-        case "TheCatsOfCatBlockUsersChannel":
-        case "TheCatsOfProjectCATS":
+        case "AprilFoolsCatsChannel":        
             return false;
         default:
             return true;

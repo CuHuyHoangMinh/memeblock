@@ -208,7 +208,7 @@
     "description":"A message shown to Safari 5.0 users urging them to upgrade"
   },
   "catblock_enable_adblock":{
-    "message":"Enable CatBlock on this page",
+    "message":"Enable MemeBlock on this page",
     "description":"Link text to un-whitelist a page, displayed immediately after 'CatBlock is disabled on this page'"
   },
   "catblock_storage_quota_exceeded":{
@@ -330,7 +330,7 @@
     "description":"Checkbox on the 'General' tab of the Options page. Allow AdBlock and the ClickToFlash Safari extension to work simultaneously on YouTube."
   },
   "catblock_adblock_click_for_details":{
-    "message":"CatBlock - click for details",
+    "message":"MemeBlock - click for details",
     "description":"Tooltip on the AdBlock button, to help users understand that they can click the button, and that they can control the number badge that appears on the button."
   },
   "filterstabtitle":{
@@ -400,7 +400,7 @@
     "description":"Resource list page: title of a column"
   },
   "catblock_unpause_adblock":{
-    "message":"Unpause CatBlock",
+    "message":"Unpause MemeBlock",
     "description":"Link text to unpause CatBlock, displayed immediately after 'CatBlock is paused'"
   },
   "catblock_adblocksupport":{
@@ -460,7 +460,7 @@
     "description":"Lets the user know that a link/page is available in English only"
   },
   "catblock_filteradblock_custom":{
-    "message":"CatBlock custom filters (recommended)",
+    "message":"MemeBlock custom filters (recommended)",
     "description":"A filter list"
   },
   "hiddenelement":{
@@ -490,7 +490,7 @@
     "description":"Introduction of the ad reporting page"
   },
   "catblock_disabled_on_this_page":{
-    "message":"CatBlock is disabled on this page.",
+    "message":"MemeBlock is disabled on this page.",
     "description":"Message shown in toolbar button on web pages that have been whitelisted"
   },
   "typemain_frame":{
@@ -636,7 +636,7 @@
     "description":"Will be followed by a list of translator names (separate string)"
   },
   "catblock_tabcustomizetitle":{
-    "message":"Customize CatBlock",
+    "message":"Customize MemeBlock",
     "description":"Title of the customize tab"
   },
   "whitelistedresource":{
@@ -740,7 +740,7 @@
     "description":"Message when you subscribe to a non-list URL"
   },
   "catblock_pause_adblock":{
-    "message":"Pause CatBlock",
+    "message":"Pause MemeBlock",
     "description":"Menu entry to pause CatBlock"
   },
   "catblock_status_paused":{
@@ -1269,7 +1269,7 @@
     "description":"Question on ad report page"
   },
   "catblock_whitelistertitle2":{
-    "message":"Don't run CatBlock on...",
+    "message":"Don't run MemeBlock on...",
     "description":"The title of the whitelister dialog"
   },
   "cantblockflashwarning":{
@@ -1356,7 +1356,7 @@
     "description":"Dropdown list for language-specific filters"
   },
   "catblock_options":{
-    "message":"CatBlock Options",
+    "message":"MemeBlock Options",
     "description":"Title of the CatBlock options page tab"
   },
   "tabgeneral":{
